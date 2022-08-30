@@ -13,7 +13,7 @@ export const config = {
     USERS: ["dbPvMSw0ZQP1FiNxftZLC8dSvM8_gB6VH7KyoYirOGY", "o2feZ6L8SU5rkIOKw0mVfW13RR0k"],
      
     /**
-     * 信息配置
+     * 信息配置1
      */
 
     /** 天气相关 */
